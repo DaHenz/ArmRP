@@ -1,1 +1,1 @@
- ![Alt text](poster/scienceday200625.png)
+ !(poster/ScienceDay200625.png)
